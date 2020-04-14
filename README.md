@@ -7,5 +7,5 @@ ABOUT PROJECT - "This web app gives the prediction on wether to buy a car or not
 OUTPUT DESCRIPTION : output have GUI where user  can see the dataset and dataset based visualization like graph,pie-chart etc;also there is a option called "PREDICTION" where user can see predictions about car model given by out system.
 
 "HERE IS THE LINK TO OUR WEB APPLICATION"
-LINK1 : https://carevaluator.herokuapp.com/
+LINK1 : http://carevaluator.herokuapp.com/
 LINK2 :  http://3.21.207.85:8501/
